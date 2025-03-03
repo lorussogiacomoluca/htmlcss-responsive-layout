@@ -81,4 +81,14 @@
     .social-networks button{
         padding: 10px 48px;
     }
+
+    footer{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    address{
+        text-align: left;
+    }
 }
