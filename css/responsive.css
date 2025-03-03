@@ -73,4 +73,12 @@
         width: 70%;
         height: auto;
     }
+
+    .social-networks .label{
+        display: inline;
+    }
+
+    .social-networks button{
+        padding: 10px 48px;
+    }
 }
