@@ -20,4 +20,8 @@
         padding: 20px;
     }
     
+    .recipe-origin {
+        display: inline-block;
+    }
+    
 }
