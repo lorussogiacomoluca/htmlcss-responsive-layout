@@ -64,15 +64,13 @@
     .recipe-card{
         display: flex;
     }
+
     .quick-notes li{
         width: 100%;
     }
 
-    .recipe-info{
-        width: 40%;
-    }
-
     .recipe-video{
-        width: 60%;
+        width: 70%;
+        height: auto;
     }
 }
