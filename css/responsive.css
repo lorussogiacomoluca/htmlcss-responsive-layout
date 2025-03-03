@@ -27,4 +27,13 @@
     .recipe-name{
         font-size: 2rem;
     }
+
+    .quick-notes ul{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .quick-notes li{
+        width: 30%;
+    }
 }
