@@ -36,4 +36,9 @@
     .quick-notes li{
         width: 30%;
     }
+
+    .social-networks button{
+        padding: 10px 55px;
+        gap: 10px;
+    }
 }
