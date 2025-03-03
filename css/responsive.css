@@ -41,4 +41,8 @@
         padding: 10px 55px;
         gap: 10px;
     }
+
+    .ads{
+        display: block;
+    }
 }
