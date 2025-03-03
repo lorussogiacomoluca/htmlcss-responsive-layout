@@ -100,4 +100,9 @@
         float: left;
         margin-right: 10px;
     }
+
+    .social-networks button{
+        padding: 10px 40px;
+        gap: 5px;
+    }
 }
